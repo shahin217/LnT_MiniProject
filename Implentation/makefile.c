@@ -1,4 +1,4 @@
-PROJ_name = mainc
+PROJ_name = main
 
 SRC =src\input_year.c \
 src\isLeapYear.c\
@@ -16,7 +16,7 @@ SRC = src
 INC = inc
 
 $(PROJ_NAME): $(SRC)
-       	gcc $(SRC)  -I$(INC) -o mainc
+       	gcc $(SRC)  -I$(INC) -o main
   
   run:
         $(PROJ_NAME)
