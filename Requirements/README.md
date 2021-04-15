@@ -10,6 +10,18 @@
  *	As this is application based project resources needed very less.
  *	The only prerequisite required is basic understanding of c programming.
 
+## SWOT Analysis:
+# Strengths:
+ *	It is used to know dates and engagements.
+ *	used to manage work.
+# Weakness:
+ * Processing takes time.
+# Opportunities:
+ * used by everyone.
+ * Plan the schedules by giving equal importance to professional and personal life.
+# Threats:
+ * more space to display the data.
+
 ## 4W's and 1'H
 ## Who:
 *	It can be used by everyone.
