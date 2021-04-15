@@ -11,26 +11,26 @@
  *	The only prerequisite required is basic understanding of c programming.
 
 ## SWOT Analysis:
-# Strengths:
+### Strengths:
  *	It is used to know dates and engagements.
  *	used to manage work.
-# Weakness:
+### Weakness:
  * Processing takes time.
-# Opportunities:
+### Opportunities:
  * used by everyone.
  * Plan the schedules by giving equal importance to professional and personal life.
-# Threats:
+### Threats:
  * more space to display the data.
 
 ## 4W's and 1'H
-## Who:
+### Who:
 *	It can be used by everyone.
-## What:
+### What:
 *	It is used to know every important engagements in year.
-## When:
+### When:
 *	It has been used for many years.
-## Where:
+### Where:
 *	This application is most widely used in many devices like smartphones.
-## How:
+### How:
 *	A simple project that has multi files in it.
 
